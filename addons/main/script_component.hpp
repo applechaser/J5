@@ -1,4 +1,4 @@
-#define PREFIX J5
+#define PREFIX J8
 #define COMPONENT main
 
 #include "\x\cba\addons\main\script_macros_common.hpp"

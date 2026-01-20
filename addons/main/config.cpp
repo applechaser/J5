@@ -2,7 +2,7 @@
 
 class cfgPatches {
     class ADDON {
-        name = "J5";
+        name = "J8";
         author = "applechaser";
         requiredVersion = 1.0;
         requiredAddons[] = {"cba_main"};

@@ -1,7 +1,8 @@
-# J5 Mod
+# J8 Config fixes and changes
 
-mod that contains fixes for all things J5.
+various config fixes and changes for UNITAF use
 
 currently implemented:
 MX and MXAR rifles only accepts 30rnd mags;
 SOG DLC Australian faction L1A1 only accepts 10 and 20rnd mags;
+CUP Smaw spotting round trajectory fix
