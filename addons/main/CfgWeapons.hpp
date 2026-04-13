@@ -18,4 +18,10 @@ class CfgWeapons
     class ef_arifle_mxar: arifle_MX_Base_F {
         magazineWell[] = {"MX_65x39","CBA_65x39_MX"};
     };
+
+    //regular QBZ-95s may only accept 30rnd Mags
+    class arifle_CTAR_base_F {
+        magazineWell[] = {"CTAR_580x42","CBA_CTAR_580x42"};
+    };
+
 };
