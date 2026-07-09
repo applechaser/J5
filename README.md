@@ -12,3 +12,4 @@ currently implemented:
 * XM250 box weight decreased from 6.7 to 3lbs
 * xm250 now supports barrel swaps
 * Aegis uses luchnik uniform
+* JAM project QBZs now only accept 30rnd mags
