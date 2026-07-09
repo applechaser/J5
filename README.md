@@ -13,3 +13,4 @@ currently implemented:
 * xm250 now supports barrel swaps
 * Aegis uses luchnik uniform
 * JAM project QBZs now only accept 30rnd mags
+* changed weight of GX Drones black hornet
